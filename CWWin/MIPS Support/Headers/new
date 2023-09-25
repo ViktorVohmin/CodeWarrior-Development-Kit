@@ -1,0 +1,23 @@
+/************************************************************************/
+/*	Project...:	Standard C++ Library									*/
+/*	Name......:	new.h													*/
+/*	Purpose...:	standard C++ header file								*/
+/*  Copyright.: ©Copyright 1994 by metrowerks inc. All rights reserved. */
+/************************************************************************/
+
+#ifndef __NEW__
+#define __NEW__
+
+#ifndef __STDDEF__
+#include <stddef.h>
+#endif
+
+extern void (*set_new_handler (void (*) ())) ();
+inline void *operator new(size_t,void *p) { return p; }
+
+//	non-standard functions
+extern void _set_newpoolsize(size_t);		//	default: 0x00010000L
+extern void _set_newnonptrmax(size_t);		//	default: 0x00001000L
+extern char _prealloc_newpool(size_t);		//	preallocte a new buffer
+
+#endif

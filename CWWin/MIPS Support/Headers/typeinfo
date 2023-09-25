@@ -1,0 +1,59 @@
+/************************************************************************/
+/*	Project...:	Standard C++ Library									*/
+/*	Name......:	typeinfo												*/
+/*	Purpose...:	RTTI handling											*/
+/*  Copyright.: ©Copyright 1993-95 by metrowerks inc					*/
+/************************************************************************/
+
+#ifndef _TYPEINFO_
+#define _TYPEINFO_
+
+#ifndef _STDEXCEPT_
+#include <stdexcept>
+#endif
+
+#if __MWERKS__
+#pragma options align=mac68k
+#pragma direct_destruction on
+#endif
+
+class type_info {
+	const char	*tname;
+	const void	*tbase;
+
+public:
+//	virtual		~type_info();
+	char		operator==(const type_info&) const;
+	char		operator!=(const type_info&) const;
+	char		before(const type_info&) const;
+	const char*	name() const;
+
+private:
+				type_info(const type_info&);
+	type_info&	operator=(const type_info&);
+};
+
+class bad_cast : public exception {
+public:
+	bad_cast() throw() {}
+	bad_cast(const bad_cast&) throw() {}
+	bad_cast& operator=(const bad_cast&) throw() { return *this; }
+//	virtual ~bad_cast() throw();
+	virtual const char* what() const /*throw()*/;
+};
+
+class bad_typeid : public exception {
+public:
+	bad_typeid() throw() {}
+	bad_typeid(const bad_typeid&) throw() {}
+	bad_typeid& operator=(const bad_typeid&) throw() { return *this; }
+//	virtual ~bad_typeid() throw();
+	virtual const char* what() const /*throw()*/;
+};
+
+#if __MWERKS__
+#pragma options align=reset
+#pragma direct_destruction reset
+#endif
+
+#endif

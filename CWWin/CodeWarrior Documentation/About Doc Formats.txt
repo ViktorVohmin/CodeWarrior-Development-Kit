@@ -1,0 +1,25 @@
+About Metrowerks Documentation Formats
+
+Metroworks documentation for Windows-hosted tools comes in three formats.
+
+PDF flags the Adobe Acrobat format. Acrobat Reader allows you to both view
+the documentation on your computer and print it. However, you'll have to
+install Acrobat Reader to use these files. Acrobat has hypertext links. These
+files are suitable for both the Mac OS and Windows platform.
+
+You will also find some documentation in HTML format, particularly for Java
+tools. To view this documentation, you can use your favorite HMTL browser, or
+Internet Explorer which comes with CodeWarrior.
+
+You can access all the documentation through the CodeWarrior Documentation.htm
+file. Double-click it to launch Internet Explorer.
+
+Finally, some documentation is available in WinHelp format. Access this
+documentation through the Help menu of the IDE, Debugger, or Constructor.
+
+___________________________________________________________________________ 
+For questions, bug reports, and suggestions, please use the email report
+forms in the Release Notes folder, and mail them to support@metrowerks.com.
+___________________________________________________________________________
+
+Metrowerks Corporation 12/07/96

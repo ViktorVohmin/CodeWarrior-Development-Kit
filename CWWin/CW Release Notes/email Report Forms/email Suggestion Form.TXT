@@ -1,0 +1,83 @@
+METROWERKS CODEWARRIOR SUGGESTION FORM
+
+1. Copy this text and paste it into a new e-mail message.
+
+2. Replace the bracketed text (text surrounded by [ ]) with your own 
+   information. Please report only one suggestion per form.
+
+3. E-mail the completed form to support@metrowerks.com.
+
+Tip: Fill in the USER and DEVELOPMENT COMPUTER sections, then save this
+     document to use it as stationery.
+
+Note: Refer to the Quick Start guide for other information on contacting
+Metrowerks and for copyright information.
+
+----------------------------------------------------------------------------
+
+USER SECTION
+
+Please fill out information about yourself and how we can contact you if
+we need to.
+
+User name:                [ Your name ]
+Company name:             [ Your company's name, if any ]
+Academic institution:     [ Your school you attend, if you're a student ]
+Phone:                    [ Your voice telephone number ]
+E-mail:                   [ Your e-mail address ]
+
+----------------------------------------------------------------------------
+
+DEVELOPMENT COMPUTER SECTION
+
+Please fill out information about the computer you use for software 
+development.
+
+Model of computer used:   [ Your computer's brand name and model name ]
+
+Computer's processor:     [ Choose one of these: Motorola 68020, 
+                            Motorola 68030, Motorola 68040, PowerPC 601, 
+                            PowerPC 603, PowerPC 604, Intel 80486, 
+                            Intel Pentium, Intel Pentium Plus,
+                            other (please specify) ] 
+
+Operating system 
+and version:              [ Choose one of: Mac OS System 7.5, Be OS,
+                            Windows NT 4.0, other (please specify) ]
+
+RAM:                      [ How much physical RAM is installed ]
+
+Special hardware:         [ Examples: hardware upgrades, accelerator chips]
+
+Special software:         [ Examples: third party memory managers, special
+                            drivers, and so on ]
+
+----------------------------------------------------------------------------
+
+METROWERKS PRODUCT AND USAGE SECTION
+
+Please fill out information about the Metrowerks tool you're using and how
+you use it.
+
+Product name:             [ Choose one of these: C/C++, Pascal, Debugger, 
+                            IDE, PowerPlant, MSL, ZoneRanger, CodeManager, 
+                            other (please specify) ]
+
+Generating:               [ Choose one of: Mac OS 68K, Mac OS PowerPC, 
+                            Intel, PlayStation, Magic Cap, Palm OS, MIPS,
+                            other (please specify) ]
+
+Purpose:                  [ Choose one of: application, code resource, DLL, 
+                            other (please specify) ]
+
+----------------------------------------------------------------------------
+
+FEATURE OR SUGGESTION
+
+[ Give us your feedback or idea for improving Metrowerks tools. If you think 
+  it might be obscure, include some detail.  For improving compatibility 
+  with standards, please note the reference document and page or section 
+  number that describes the correct behavior.  For documentation 
+  suggestions, note the document name and page or figure number. ]
+
+

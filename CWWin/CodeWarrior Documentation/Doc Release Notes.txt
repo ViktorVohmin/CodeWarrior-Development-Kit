@@ -1,0 +1,67 @@
+===============================================================
+Metrowerks Documentation Release Notes for Windows-hosted Tools
+===============================================================
+
+Version: CodeWarrior for Windows DR1
+Date:    December 7, 1996
+Author:  Jim Trudeau
+===============================================
+
+
+For an overview and description of all CodeWarrior documentation,
+double-click the CodeWarrior Documentation.htm file.
+
+Please read the release notes for the latest information on the particular
+tools. The Metrowerks documentation team does its best to be 100% accurate
+and complete while writing clear and easily understood manuals about our
+tools. However, because of the rapid pace of development certain elements in
+the documentation may be inaccurate. Writers are always one step behind the
+engineers, and that is as it should be. The release notes will have a
+description of any last-minute changes or features.
+
+
+CodeWarrior Help Files
+
+CodeWarrior for Windows DR1 comes with help files for the three principal
+tools that have a UI - the CodeWarrior IDE, the Debugger, and Constructor.
+In addition, there is a help file that contains information about compiler
+and linker errors. There are known problems with each of these files.
+
+IDE - graphics are frequently poor quality. In addition, two chapters
+      are missing from the contents, "Compiling and Linking" and "Setting
+      Options." This information is in the help file, just not in the 
+      contents. You can access these chapters through the index.
+
+Error Reference - has many links that go to the wrong place. These will
+      be fixed as soon as possible, and an update made available on the
+      Metrowerks web site, www.metrowerks.com
+
+Debugger - just about every item in the index begins with the letter k.
+
+Constructor - the information on the bitmap editor uses screenshots from
+      the Mac OS hosted tools because these features were still under
+      development.
+
+
+
+=====================
+Contacting Metrowerks
+=====================
+
+For bug reports, technical questions and suggestions, please use the forms in
+the Release Notes folder on the CD, and send them to support@metrowerks.com
+
+You may also post reports, questions and suggestions to
+
+comp.os.ms-windows.programmer.tools.misc
+comp.sys.mac.programmer.codewarrior
+comp.sys.mac.oop.powerplant
+comp.lang.java
+
+as appropriate. Metrowerks tech support monitors these newsgroups closely.
+
+-----------------------------------------------------------------------------
+
+Jim Trudeau
+WordWarrior
+Metrowerks Corporation

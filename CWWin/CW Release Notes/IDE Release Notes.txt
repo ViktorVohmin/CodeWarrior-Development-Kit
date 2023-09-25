@@ -1,0 +1,48 @@
+==================================
+Metrowerks CodeWarrior for PlayStation
+==================================
+
+Version DR2
+Date 	Nov 21, 1996
+
+
+1. Minimum System Requirements
+
+- 486 or better with 16 MB of RAM
+- Windows95 or WinNT4  (WinNT 3.51 is not support with the current version)
+
+2. Unimplemented features
+
+- Custom toolbar
+- Custom keywords
+
+3. Known bugs
+
+- The IDE is not capable of saving a fileset in the Find dialog
+- Many redraw & update problems
+
+4. Additional Notes
+
+[IDE]
+- If you see the line count stop during compiling, this means that the compiler
+  has crashed. Please report this and send us the sources
+  to reproduce the problem.
+
+[PlayStation Plugin]
+- The PlayStation postlinker now creates a file called 
+
+<projectname>.pxe 
+rather than
+<projectname>.pse.EXE
+
+This is the file that should be burned on the PlayStation CD for
+mass-production. You will have to rename the file to
+<projectname>.EXE when you attempt to actually use the file
+for production.
+
+5. Contacting Metrowerks
+
+For bug reports, technical questions and suggestions, please send email
+to mptp@metrowerks.com
+
+

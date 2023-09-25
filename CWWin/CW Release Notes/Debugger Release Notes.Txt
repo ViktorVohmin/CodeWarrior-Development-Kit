@@ -1,0 +1,67 @@
+==================================
+Metrowerks CodeWarrior Debugger
+==================================
+
+Version	1.6.1
+Date 	January 22, 1997
+
+
+1. Minimum System Requirements
+
+* 486 or better with 16 MB of RAM
+* Windows95 or WinNT4  (WinNT 3.51 is not supported with the current version)
+
+2. Notes
+
+* Visual C++ users will recognize F5, F10, Shift-F10, F11, and Shift-F11 as
+run, step over, stop, step in, and step out.
+
+* If the fonts look really bad in the register and memory views, make sure
+that you have the "Courier New" font installed on your machine.  This font
+is part of a normal install of Windows NT or 95, but if it isn't installed,
+those views don't look nice.
+
+
+3. Changes/Bug Fixes
+
+* Removed references to MetroNub, the Mac debugger plugin.
+
+* Watchpoints now work but there is currently no visual feedback in the
+memory and globals windows.  The watchpoints window correctly displays the
+values of the watchpoints.
+
+* The help files for the application are located in the "(Help)" directory
+which is a sibling of "Bin".  
+
+* The log window is now named <application_name>.log.  It shows up
+in the windows menu correctly and inserts the correct name in the
+save dialog.
+
+* The help files for the application will be located in the "(Help)" directory
+which is a sibling of "Bin". 
+
+* Fixed "map inconsistent" error in expressions window.
+
+4. Known Bugs
+
+* Known problems launching debugger and opening .pse file from the IDE.
+
+* In an array window, the "Struct Member" control doesn't operate properly.
+
+* If you encounter "Directory Not Found" or "-120" when launching or 
+quitting a debuggee, it probably has something to do with the Resource 
+Manager.  Macintosh resources are stored under Win32 in a directory named 
+"Resource.FRK".  If the file already exists, but not in the Resource.FRK 
+directory, the Resource Manager may not find the correct file.  Delete, 
+rename, or move the associated ".DBG" file and try again.
+
+* If the main Debugger window is very small and you open the process or
+target windows, the scrollers are given the wrong sizes and it is not
+possible to resize them to the correct size.
+
+* The debugger plugins are not unloaded once they are loaded.
+
+* If you are viewing assembly and choose "Source" and the file can't be
+found, cancelling the find file dialog will result in the button
+displaying "Source" rather than "Assembly" 
+

@@ -1,0 +1,35 @@
+==================================
+Metrowerks CodeWarrior PlayStation Plugin 
+==================================
+
+Version	1.2
+Date 	Dec 10, 1996
+
+
+1. Minimum System Requirements
+
+* 486 or better with 16 MB of RAM
+* Windows95 or WinNT4  (WinNT 3.51 is not supported with the current version)
+
+2. Notes
+
+3. Changes/Bug Fixes
+
+4. Known Bugs
+
+* The "printf" command, when executed on the Net Yaroze may not complete 100% of the
+time when running at 115kbps. This will cause the Net Yaroze to hang. If you see this
+often, try reducing the debug speed to 56.7 kbps.
+
+* struct {} variables will be shown with a symbol type of <Record Of>
+rather than <Struct>. 
+
+* If a conditional breakpoint is set in a location that is called very
+frequently (more than once per second or so), the stack window will not be
+updated to show that the process is running. It will remain at the source
+display.
+
+* If a watchpoint is set and the user hits run, the entire UI will hang until
+the watchpoint is found. This prevents quitting or doing anything else with
+the debugger until the watchpoint is found.
+

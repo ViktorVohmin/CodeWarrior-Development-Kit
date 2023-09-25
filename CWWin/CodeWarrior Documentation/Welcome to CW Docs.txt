@@ -1,0 +1,93 @@
+Welcome to CodeWarrior Docs!
+
+* I don't want to read this note, I want information fast!
+
+Double-click the CodeWarrior Documentation.htm file to go quickly to a
+hyperlinked description of all the manuals, both those included with this
+product and other manuals available in the CodeWarrior universe.
+
+Read the Release Notes for the various products! Some information in the
+documentation may not be accurate because of last minute changes to
+CodeWarrior. Refer to the Release Notes folder for this last minute
+information.
+
+The QuickStart guide will get you started. New users and users who have
+purchased an update get a printed version of this guide. QuickStart gives you
+background information about CodeWarrior, and points you to places to continue
+learning, most particularly to the CodeWarrior Reference Web Site, a local (on
+the CD) HTML site that can take you through all the documentation and to many
+other places as well.
+
+In every manual produced by Metrowerks you'll find the Guide to CodeWarrior
+Documentation on the back page. Use this page to quickly point you to the
+information you're looking for. Some of the manuals listed there are specific
+to other hosts (such as the Mac-hosted tools) and may not be included with the
+documentation for the Windows-hosted tools.
+
+
+* Which documentation viewer do I use?
+
+CodeWarrior documentation is available in Adobe Acrobat. Some documentation
+is available in HTML or WinHelp. Acrobat provides hypertext navigation and
+good searching features. You can use Acrobat for online reading and
+searching, and for printing.
+
+
+* I want paper manuals!
+
+CodeWarrior documentation comes in electronic format to give you the latest
+information and save you money. Metrowerks publishes its most important and
+popular manuals in a series of volumes. Inside CodeWarrior for Windows should
+be available about mid-December. Inside PowerPlant is available now. You can
+order either (or both) of these manuals from Metrowerks Mail Order.
+
+The Inside CodeWarrior volume will include the following manuals: 
+ - CodeWarrior IDE User's Guide  
+ - Debugger Manual 
+ - Error Reference  
+ - C/C++/Asm Language Reference 
+ - Pascal Language Reference 
+ - Constructor Manual (Windows-hosted) 
+ - Targeting Windows
+
+Inside PowerPlant volume describes Metrowerks application framework for Mac
+OS programming. This volume includes the following manuals: 
+ - The PowerPlant Book 
+ - PowerPlant Advanced Topics 
+ - Constructor Manual (Mac-hosted)
+
+
+* Help! I can't find what I'm looking for.
+
+Contact Metrowerks Technical Support (support@metrowerks.com). E-mail forms
+for reporting bugs, questions, and suggestions are in the Release Notes
+folder.
+
+
+* Who is in the Metrowerks documentation team?
+
+The extraordinary folks who bring you more than 7500 pages of
+highly-technical documentation are...
+ - Steve Chernicoff 
+ - Carl Constantine
+ - Ron Liechty
+ - Chris Magnuson 
+ - Jeff Mattson 
+ - Marc Paquette 
+ - John Roseborough 
+ - L. Frank Turovich
+
+and me, Jim Trudeau
+
+I'm proud of this team, and of the high-quality documentation we produce for
+you. If you have comments, complaints, or suggestions about the
+documentation, please let us know. We want to help you get the most out of
+CodeWarrior. Let me know what we did right, and what you'd like to see done
+better. You can reach me by e-mail at:
+
+wordwarrior@metrowerks.com
+
+-----------------------------------------------------------------------
+ Jim Trudeau
+ WordWarrior
+ Rev. 96/12/07

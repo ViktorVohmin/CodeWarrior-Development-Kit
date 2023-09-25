@@ -1,0 +1,95 @@
+
+CodeWarrior on the Nets
+---------------------------------------------
+
+Check the following Metrowerks CodeWarrior forums for support and updates.
+
+Please continue to send bug reports to our support address:
+support@metrowerks.com
+
+World-wide Web Site:
+ http://www.metrowerks.com/
+
+Internet newsgroups:
+   For CodeWarrior for Windows 95/NT issues, read or post questions to: 
+      comp.os.ms-windows.programmer.tools.misc
+   For CodeWarrior for Mac OS issues, read or post questions to: 
+      comp.sys.mac.programmer.codewarrior
+   For Java related issues, read or post questions to:
+      comp.lang.java
+   For PowerPlant related issues, read or post questions to:
+      comp.sys.mac.oop.powerplant
+ 
+Online services (have patches):
+1) America OnLine
+   Computing :: Development Forum :: Industry Connection :: Metrowerks
+   keyword ---> Metrowerks
+2) Compuserve
+   Macintosh Developers Support Board
+   goto MacDev :: Lib #16 -- Metrowerks
+
+Online services (don't have patches):
+1) GEnie
+   PowerPC Developers Roundtable
+   PPCPRO # 1440 :: Lib #8 Apple PowerPC:System 7
+
+
+Patch sites on the internet:
+For patches to Mac-hosted toos, use this list. For Windows-hosted
+tools, see the Metrowerks web-site.
+
+1) at the anonymous ftp site at sumex-aim.stanford.edu in the
+   /info-mac/Development directory.
+2) any of the sumex-aim ftp sites and its mirror sites world wide.
+   (see listing below)
+==================================================================
+
+ftp://mirrors.aol.com//mir02/INFOMAC/info-mac/
+ftp://amug.org/info-mac/
+ftp://archie.au/micros/mac/info-mac/
+ftp://ftp.univie.ac.at/mac/info-mac/
+ftp://ftp.ucs.ubc.ca/pub/mac/info-mac/
+ftp://ftp.funet.fi/pub/mac/info-mac/
+ftp://ftp.jyu.fi/info-mac/
+ftp://ftp.ibp.fr/pub/mac/info-mac/
+ftp://ftp.cs.tu-berlin.de/pub/mac/info-mac/
+ftp://ftp.rrzn.uni-hannover.de/pub/info-mac/
+ftp://ftp.uni-kl.de/pub/info-mac/
+ftp://ftp.uni-stuttgart.de/pub/systems/mac/info-mac/
+ftp://ftp.hawaii.edu/mirrors/info-mac/
+ftp://ftp.technion.ac.il/pub/unsupported/mac/info-mac/
+ftp://ftp.iij.ad.jp/pub/info-mac/
+ftp://ftp.center.osaka-u.ac.jp/info-mac/
+ftp://ftp.u-tokyo.ac.jp/pub/info-mac/
+ftp://ftp.fenk.wau.nl/pub/mac/info-mac/
+ftp://ftp.lth.se/mac/info-mac/
+ftp://ftp.sunet.se/pub/mac/info-mac/
+ftp://nic.switch.ch/mirror/info-mac/
+ftp://ftp.edu.tw/Macintosh/info-mac/
+ftp://imftp.mgt.ncu.edu.tw/pub/mac/info-mac/
+ftp://grind.isca.uiowa.edu/mac/infomac/
+ftp://mrcnext.cso.uiuc.edu/pub/info-mac/
+ftp://src.doc.ic.ac.uk/packages/info-mac/
+ftp://ftp.uu.net/archive/systems/mac/info-mac/
+ftp://wuarchive.wustl.edu/systems/mac/info-mac/
+ftp://archive.bhp.com.au/mac/mirrors/umich/
+ftp://archie.au/micros/mac/umich/
+ftp://anl.anl.fr/pub/mac/umich/
+ftp://info2.rus.uni-stuttgart.de/afs/umich.edu/group/itd/archive/mac/
+ftp://athene.uni-paderborn.de/pcsoft3/mac/
+ftp://ftp.technion.ac.il/pub/unsupported/mac/umich/
+ftp://ftp.inter.spin.ad.jp/pub/Mac/Merit.mirror/
+ftp://ftp.iij.ad.jp/pub/mac/umich/
+ftp://ftp.u-tokyo.ac.jp/pub/mac/umich/
+ftp://archive.orst.edu/pub/mirrors/archive.umich.edu/mac/
+ftp://ftp.sunet.se/pub/mac/mirror-umich/
+ftp://nic.switch.ch/mirror/umich-mac/
+ftp://nctuccca.edu.tw/Macintosh/umich-mac/
+ftp://ftp.ccu.edu.tw/pub/mac/
+ftp://grind.isca.uiowa.edu/mac/umich/
+ftp://src.doc.ic.ac.uk/packages/mac-umich/
+ftp://wuarchive.wustl.edu/systems/mac/umich.edu/
+
+---
+
+Revised 96/22/11

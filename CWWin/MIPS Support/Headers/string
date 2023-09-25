@@ -1,0 +1,19 @@
+/************************************************************************/
+/*	Project...:	Standard C++ Library									*/
+/*	Name......:	string													*/
+/*	Purpose...:	string handling											*/
+/*  Copyright.: ©Copyright 1995 by metrowerks inc. All rights reserved. */
+/************************************************************************/
+
+#ifndef _STRING_
+#define _STRING_
+
+class string {
+	char *data;
+public:
+	string() { data=""; };
+	string(char *str) { data=str; };
+	operator const char*() const { return data; }
+};
+
+#endif

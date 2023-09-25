@@ -1,0 +1,50 @@
+:Base ERR_REF.HLP
+:Title CodeWarrior Error Reference
+1 Error Reference
+2 About the Error Reference
+3 Overview=Overview_of_the_Error_Reference
+3 Conventions=Conventions
+3 How preferences affect errors=How_preferences_affect_errors
+2 C/C++ Compiler Errors
+3 Symbol Names=Symbol_Names
+3 Punctuation=Punctuation
+3 C/C++ compiler error messages: A, B, C=C_C_compiler_error_messages_A_B_C
+3 C/C++ compiler error messages: D, E, F=C_C_compiler_error_messages_D_E_F
+3 C/C++ compiler error messages: G, H, I=C_C_compiler_error_messages_G_H_I
+3 C/C++ compiler error messages: J, K, L=C_C_compiler_error_messages_J_K_L
+3 C/C++ compiler error messages: M, N, O=C_C_compiler_error_messages_M_N_O
+3 C/C++ compiler error messages: P, Q, R=C_C_compiler_error_messages_P_Q_R
+3 C/C++ compiler error messages: S, T=C_C_compiler_error_messages_S_T
+3 C/C++ compiler error messages: U, V, W, X, Y, Z=C_C_compiler_error_messages_U_V_W_X_Y_Z
+2 Linker Error Messages
+3 Linker Error Messages=Linker_Error_Messages
+3 Symbol Names=Symbol_Names
+3 Linker Error Messages: A, B, C=Linker_Error_Messages_A_B_C
+3 Linker Error Messages: D, E, F=Linker_Error_Messages_D_E_F
+3 Linker Error Messages: G, H, I=Linker_Error_Messages_G_H_I
+3 Linker Error Messages: J, K, L=Linker_Error_Messages_J_K_L
+3 Linker Error Messages: M, N, O=Linker_Error_Messages_M_N_O
+3 Linker Error Messages: P, Q, R, S, T=Linker_Error_Messages_P_Q_R_S_T
+3 Linker Error Messages: U, V, W, X, Y, Z=Linker_Error_Messages_U_V_W_X_Y_Z
+2 Magic Cap Linker Error Messages
+3 Magic Cap Linker Errors - Symbol Names=Magic_Cap_Linker_Errors_Symbol_Names
+3 Magic Cap Linker Errors:  A, B, C, D, E, F=Magic_Cap_Linker_Errors_A_B_C_D_E_F
+3 Magic Cap Linker Errors:  G, H, I, J, K, L=Magic_Cap_Linker_Errors_G_H_I_J_K_L
+3 Magic Cap Linker Errors: M, N, O, P, Q, R=Magic_Cap_Linker_Errors_M_N_O_P_Q_R
+3 Magic Cap Linker Errors:  S, T, U, V, W, X, Y, Z=Magic_Cap_Linker_Errors_S_T_U_V_W_X_Y_Z
+2 Magic Cap Precompiler Error Messages
+3 Magic Cap Precompiler Errors: Symbol Names=Magic_Cap_Precompiler_Errors_Symbol_Names
+3 Magic Cap Precompiler Errors: A, B, C, D, E, F=Magic_Cap_Precompiler_Errors_A_B_C_D_E_F
+3 Magic Cap Precompiler Errors: G, H, I, J, K, L=Magic_Cap_Precompiler_Errors_G_H_I_J_K_L
+3 Magic Cap Precompiler Errors: M, N, O, P, Q, R=Magic_Cap_Precompiler_Errors_M_N_O_P_Q_R
+3 Magic Cap Precompiler Errors S, T, U, V, W, X, Y, Z=Magic_Cap_Precompiler_Errors_S_T_U_V_W_X_Y_Z
+2 Pascal Compiler Errors
+3 Pascal Compiler Errors: Punctuation marks=Pascal_Compiler_Errors_Punctuation_marks
+3 Pascal Compiler Errors: A, B, C=Pascal_Compiler_Errors_A_B_C
+3 Pascal Compiler Errors: D, E, F=Pascal_Compiler_Errors_D_E_F
+3 Pascal Compiler Errors: G, H, I=Pascal_Compiler_Errors_G_H_I
+3 Pascal Compiler Errors: J, K, L=Pascal_Compiler_Errors_J_K_L
+3 Pascal Compiler Errors: M, N, O=Pascal_Compiler_Errors_M_N_O
+3 Pascal Compiler Errors: P, Q, R=Pascal_Compiler_Errors_P_Q_R
+3 Pascal Compiler Errors: S, T=Pascal_Compiler_Errors_S_T
+3 Pascal Compiler Errors: U, V, W, X, Y, Z=Pascal_Compiler_Errors_U_V_W_X_Y_Z

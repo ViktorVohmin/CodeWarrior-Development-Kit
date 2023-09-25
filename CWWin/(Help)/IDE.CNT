@@ -1,0 +1,61 @@
+:Base IDE.HLP
+:Title CodeWarrior IDE Online User's Guide
+1 CodeWarrior IDE User's Guide
+2 Introduction
+3 Welcome to the CodeWarrior IDE=Welcome_to_the_CodeWarrior_IDE
+3 Read the Release Notes!=Read_the_Release_Notes
+3 IDE User Guide Overview=IDE_User_Guide_Overview
+3 About the CodeWarrior IDE=About_the_CodeWarrior_IDE
+3 Where to Go From Here=Where_to_Go_From_Here
+3 QuickStart and Tutorial Resources=QuickStart_and_Tutorial_Resources
+3 Operating System Targeting Documentation=Operating_System_Targeting_Documentation
+2 Getting Started
+3 Getting Started OVerview=Getting_Started_Overview
+3 System Requirements=System_Requirements
+3 CodeWarrior IDE Installation=CodeWarrior_IDE_Installation
+3 CodeWarrior IDE Guided Tour=CodeWarrior_IDE_Guided_Tour
+2 Working with Projects
+3 Working with Projects Overview=Working_with_Projects_Overview
+3 Creating a Project=Creating_a_Project
+3 Opening an Existing Project=Opening_an_Existing_Project
+3 Saving a Project=Saving_a_Project
+3 Closing a Project=Closing_a_Project
+3 Guided Tour of the Project Window=Guided_Tour_of_the_Project_Window
+3 Managing Files in a Project=Managing_Files_in_a_Project
+3 About Groups and Segments=About_Groups_and_Segments
+3 Navigating the Project Window=Navigating_the_Project_Window
+2 Working with Files Overview
+3 Creating a New File=Creating_a_New_File
+3 Opening an Existing File=Opening_an_Existing_File
+3 Saving a File=Saving_a_File
+3 Closing a File=Closing_a_File
+3 Printing a File=Printing_a_File
+3 Reverting to a Previously-Saved File=Reverting_to_a_Previously_Saved_File
+2 Editing Source Code
+3 Source Code Editor Overview=Source_Code_Editor_Overview
+3 Guided Tour of the Editor Window=Guided_Tour_of_the_Editor_Window
+3 Editor Window Configuration=Editor_Window_Configuration
+3 Basic Text Editing=Basic_Text_Editing
+3 Navigating in Text=Navigating_in_Text
+2 Searching and Replacing Text
+3 Overview of Search and Replace=Overview_of_Search_and_Replace
+3 Guided Tour of the Find Window=Guided_Tour_of_the_Find_Window
+3 Searching for Selected Text=Searching_for_Selected_Text
+3 Searching and Replacing Text in a Single File=Searching_and_Replacing_Text_in_a_Single_File
+3 Searching and Replacing Text in Multiple Files=Searching_and_Replacing_Text_in_Multiple_Files
+3 Using Regular Expressions (grep)=Using_Regular_Expressions_grep
+2 Browsing Source Code
+3 Browser Overview=Browser_Overview
+3 Understanding the Browser Strategy=Understanding_the_Browser_Strategy
+3 Guided Tour of the Browser=Guided_Tour_of_the_Browser
+3 Using the Browser=Using_the_Browser
+2 IDE Menu Reference
+3 IDE Menu Reference Overview=IDE_Menu_Reference_Overview
+3 File Menu=File_Menu
+3 Edit Menu=Edit_Menu
+3 Search Menu=Search_Menu
+3 Project Menu=Project_Menu
+3 Tools Menu=Tools_Menu
+3 Window Menu=Window_Menu
+3 Help Menu=Help_Menu
+:Include ERR_REF.CNT
